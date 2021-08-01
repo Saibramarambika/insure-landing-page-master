@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Karla&display=swap');
+
+html {
+   font-size:10px;
+}
+
+.row1{
+    padding-top: 2rem ;
+}
+
+.row1a{
+    color: hsl(216, 30%, 68%);
+    text-align: center;
+    font-family: 'Karla', sans-serif;
+}
+.row1b{
+    color: hsl(216, 30%, 68%);
+    text-align: center;
+    font-family: 'Karla', sans-serif;
+}
+.row1c{
+    color: hsl(216, 30%, 68%);
+    text-align: center;
+    font-family: 'Karla', sans-serif;
+}
+.row1d{
+    color: hsl(216, 30%, 68%);
+    text-align: center;
+    font-family: 'Karla', sans-serif;
+    border:  solid black;
+    
+}
+
+.row2{
+  background: linear-gradient(to bottom, hsl(256, 26%, 20%) 75%, white 25%)  ;
+  
+  padding-left: 305rem;
+  color: white;
+  padding-left: 20px;
+  padding-top: 50px;
+  background-image: url ("images/bg-pattern-intro-right-desktop.svg");
+  background-position: right top;
+}
+
+
+.row2a{
+    font-family: 'Karla' ,sans-serif ;
+    font-size: 5rem;
+    
+}
+
+.row2c{
+    border: solid white;
+    width: 10rem;
+    text-align: center;
+}
+
+.row2d{
+    background-image: url("images/bg-pattern-intro-left-desktop.svg");
+    background-repeat: no-repeat;
+    background-size: 10rem 30rem;
+    background-position: left bottom;
+}
+
+.row3{
+    padding-top: 30px;
+    padding-left: 60px;
+    font-weight: 700;
+    font-family:'DM Serif Display' , serif ;
+}
+
+
+.row4{
+    padding-left: 6rem;
+    padding-right: 3rem;
+}
+
+.row4a>p{
+  color: gray;
+  padding-right: 5rem;
+}
+.row4b>p{
+    color: gray;
+    padding-right: 5rem;
+}
+.row4c>p{
+    color: gray;
+    padding-right: 5rem;
+}
+
+.row5{
+    background-color: hsl(256, 26%, 20%);
+    color: white;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 50px;
+    text-align: center;
+}
+
+.row6a>h6{
+    color: grey;
+}
+
+.row6{
+    background-color: hsl(0, 0%, 98%);
+    background-image: url("images/bg-pattern-footer-desktop.svg");
+    background-repeat: no-repeat;
+    background-position: left top;
+    padding-left: 5rem;
+    background-size: 20rem 10rem;
+}
+
+
+
+.row6b{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.extra{
+    padding: 10rem;
+    padding-bottom: 13rem;
+}
+
+.row5{
+  padding: 0rem;
+}
+
+.col-example1{
+    font-family: 'DM serif' ,serif;
+    background-color:hsl(256, 26%, 20%) ;
+    align-content: center;
+    color: white;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    height: 9rem;
+    font-size: 1rem;
+    float: left;
+    
+    
+}
+
+
+
+
+
+
+
